@@ -580,7 +580,7 @@ tensorboard==1.14.0
 tensorboardX==1.9
 tensorflow==1.14.0
 tensorflow-estimator==1.14.0
-tensorflow-gpu==1.14.0
+tensorflow-gpu==1.15.0
 tensorflow-hub==0.7.0
 tensorflow-probability==0.8.0
 Tensorforce==0.5.2
